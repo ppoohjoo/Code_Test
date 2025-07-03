@@ -3,8 +3,9 @@
 using namespace std;
 
 void source1();
+void a8393();
 
 int main() {
 	source1();
-	8399();
+	a8399();
 }
